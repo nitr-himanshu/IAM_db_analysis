@@ -51,3 +51,9 @@ About XML labeling
 
 - All form, line and word images are provided as PNG files.
 - The corresponding form label files, including segmentation information and variety of estimated parameters (from the preprocessing steps described in P031) are included in the image files as meta-information in XML format which is described in XML file and XML file format (DTD).
+
+
+Error Files
+------------
+a01-117-05-02.png
+r06-022-03-05.png
